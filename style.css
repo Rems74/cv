@@ -14,10 +14,10 @@ body
   text-align:center;
 }
 
-img
+ img
 {
- min width: 30px;
- mid height 30px;
- max width 40px;
- max height 40px;
+ min width: 10px;
+ mid height 10px;
+ max width 20px;
+ max height 20px;
 }
