@@ -1,8 +1,12 @@
+*
+{
+ background-image:url ("https://friendofthesea.org/public/news/blue-ocean-28668-2560x1600.jpg");
+}
 body
 {
-background-image:url ("https://friendofthesea.org/public/news/blue-ocean-28668-2560x1600.jpg");
+
 }  
-  p, h1, 
+  h1 
 { 
   text-align: center; 
 }
@@ -10,4 +14,13 @@ background-image:url ("https://friendofthesea.org/public/news/blue-ocean-28668-2
 img 
 {
   text-align: center;
+}
+
+#langue
+{
+  text-align: center;
+}
+  p
+{
+  text-align:center;
 }
