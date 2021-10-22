@@ -1,6 +1,6 @@
 body
 {
- background-image:url ("https://friendofthesea.org/public/news/blue-ocean-28668-2560x1600.jpg");
+ background-image: url (https://friendofthesea.org/public/news/blue-ocean-28668-2560x1600.jpg);
 }
   
   h1 
@@ -12,4 +12,12 @@ body
   p
 {
   text-align:center;
+}
+
+img
+{
+ min width: 40px;
+ mid height 40px;
+ max width 50px;
+ max height 50px;
 }
