@@ -1,9 +1,13 @@
-p, h1, 
+body
+{
+background-image:url ("https://friendofthesea.org/public/news/blue-ocean-28668-2560x1600.jpg");
+}  
+  p, h1, 
 { 
-  text-align: center 
+  text-align: center; 
 }
 
 img 
 {
-  text-align: center
+  text-align: center;
 }
